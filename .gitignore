@@ -1,1 +1,4 @@
-dados.csv
+#Gitingone - serve para você ignorar os arquivos que não são texto para o git
+# O * serve para ignorar arquivos iguais, ex: *.csv ou o proprio nome da pasta quando só a um
+
+*.csv
